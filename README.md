@@ -4,4 +4,4 @@ My name is Gabe!
 I like turtles!
 I love soccer! 
 I am a goalkeeper!
-I wnt to leave!
+I wAnt to leave!
